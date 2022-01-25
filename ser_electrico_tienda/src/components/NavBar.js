@@ -3,12 +3,12 @@ import './NavBar.css'
 
 export default function NavBar() {
     return <>
-        <NavBar />♠
+        <NavBar />
         <nav>
             <div>
-                <div class="nav-wrapper">
+                <div>
                 💡<h1>Bienvenidos a Ser-Electrico </h1> 💡
-                    <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <ul>
                         <li>Nosotros</li>
                         <li>Carrito</li>
                         <li>Contacto</li>
