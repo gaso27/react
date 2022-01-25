@@ -21,7 +21,6 @@ function App() {
         </a>
       </header>
 
-       <NavBar/>
        <h1>Este es el segundo desafio</h1>
        <Content/>
     </div>
