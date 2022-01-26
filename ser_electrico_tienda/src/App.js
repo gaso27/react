@@ -11,15 +11,17 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Estamos trabajando para INTENTAR <br></br>
+          que los ojos, al revisar esta app, <br></br>
+          le duelan lo menos posible
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.buenosaires.gob.ar/hospitalsantalucia/guardia-del-hospital-oftalmologico-santa-lucia"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          De no ser asi, aqui tiene una guardia Oftalmológica
         </a>
       </header>
         <h1>Este es el segundo desafio</h1>
